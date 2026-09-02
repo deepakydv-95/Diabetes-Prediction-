@@ -173,18 +173,6 @@ Example format:
 
 ---
 
-## 🔮 Sample Prediction
-
-The model accepts the following inputs:
-
-
-
-
-
-
-
----
-
 ## 📁 Project Structure
 
 ```text
