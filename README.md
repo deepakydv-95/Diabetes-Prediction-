@@ -182,13 +182,6 @@ Pregnancies
 Glucose
 BloodPressure
 SkinThickness
-Insulin
-BMI
-DiabetesPedigreeFunction
-Age
-```
-
-Example:
 
 
 
