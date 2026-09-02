@@ -177,11 +177,7 @@ Example format:
 
 The model accepts the following inputs:
 
-```text
-Pregnancies
-Glucose
-BloodPressure
-SkinThickness
+
 
 
 
