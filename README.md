@@ -218,8 +218,7 @@ The model returns:
 Diabetes-Prediction/
 │
 ├── diabetes.csv
-├── diabetes_prediction.ipynb
-├── diabetes_prediction.py
+├── app.py
 ├── requirements.txt
 ├── README.md
 │
