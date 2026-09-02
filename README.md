@@ -203,10 +203,7 @@ new_patient = [[
 ]]
 ```
 
-The model returns:
 
- → Diabetes
-```
 
 ---
 
