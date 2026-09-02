@@ -205,9 +205,7 @@ new_patient = [[
 
 The model returns:
 
-```text
-0 → No Diabetes
-1 → Diabetes
+ → Diabetes
 ```
 
 ---
