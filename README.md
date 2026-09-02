@@ -156,7 +156,7 @@ Example format:
 | Model               | Accuracy | ROC-AUC |
 | ------------------- | -------: | ------: |
 | Logistic Regression |      XX% |      XX |
-| Decision Tree       |      XX% |      XX |
+| Decision Tree       |      70% |      XX |
 | Random Forest       |      XX% |      XX |
 | KNN                 |      XX% |      XX |
 | SVM                 |      XX% |      XX |
