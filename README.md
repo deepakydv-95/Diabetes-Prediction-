@@ -158,8 +158,8 @@ Example format:
 | Logistic Regression |      XX% |      XX |
 | Decision Tree       |      70% |      XX |
 | Random Forest       |      XX% |      XX |
-| KNN                 |      XX% |      XX |
-| SVM                 |      XX% |      XX |
+| Naive Bayes         |      72% |      XX |
+| SVM                 |      73% |      XX |
 
 ### Best Model
 
